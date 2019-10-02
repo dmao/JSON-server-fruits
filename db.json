@@ -1,5 +1,5 @@
 {
-   fruits:[ 
+   "fruits":[ 
       { 
          name:"banana",
          amount:"2",
